@@ -15,3 +15,5 @@ simpleeval==0.9.13
 typing-extensions==4.5.0
 Jinja2==3.1.2
 nest-asyncio==1.5.6
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
+transformers>=4.37.0 # not directly required, pinned by Snyk to avoid a vulnerability
